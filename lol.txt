@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 LINHA 1
 
 LINHA 2
@@ -7,3 +8,5 @@ LINHA 2
 
                     
                        "________________________________"
+=======
+>>>>>>> parent of 0c8b9e4 (Update lol.txt)
